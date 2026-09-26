@@ -8,11 +8,11 @@ Driven by a curiosity for emerging technologies and how they evolve to solve eve
 
 ## Tech Stack & Skills
 
-**Languages**: C# (.NET Framework), Java, JavaScript/TypeScript, C/C++, Python, Bash
+**Languages**: .NET (C#), Java, JavaScript/TypeScript, C/C++, Python, Bash
 
 **Web Development**: React.js, Vite, Node.js (Express), HTML, CSS, WordPress (PHP)
 
-**Databases**: SQL, PL/SQL, PostgreSQL, Oracle, MySQL, MongoDB
+**Databases**: SQL, PL/SQL, SQLite, PostgreSQL, MySQL, Oracle, MongoDB
 
 **DevOps & Infrastructure**: Linux (Arch, Ubuntu), Git, Docker, CI/CD (GitLab CI, GitHub Actions), Nginx
 
